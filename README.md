@@ -4,7 +4,7 @@ Pasted below is Cursor output as markdown, using a PDF exported from Pages on ma
 
 # Test Doc in Pages App
 
-Just writing some things, wondering about, things. How does markdown work here.
+__Just__ writing some things, _wondering_ about, things. How does markdown work here.
 
 ## Heading In to the Mix
 
